@@ -1,0 +1,20 @@
+/* CSS DO INDEX */
+
+
+/* title calculadora do index */
+h1 {
+    background-color: purple;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #955c97;
+}
